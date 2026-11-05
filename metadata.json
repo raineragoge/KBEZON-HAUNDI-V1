@@ -1,0 +1,6 @@
+{
+  "name": "KBZÓN HAUNDI — Gastrobar Donostia",
+  "description": "Gastrobar de cocina vasca de fusión en el barrio de Gros, Donostia–San Sebastián. Propuesta editorial, pintxos y raciones con carácter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
